@@ -1,0 +1,61 @@
+.product-card {
+  /* height: 30%; */
+  width: 22%;
+  margin-right: 50px;
+  margin-bottom: 30px;
+}
+.product-image {
+  height: 70%;
+  width: 70%;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+.product-buy-button {
+  width: 50%;
+}
+.Spinner {
+  /* width: 100%; */
+  margin-left: 20px;
+  margin-top: 85%;
+  height: 8rem;
+  width: 8rem;
+}
+.navbar-item {
+  margin-right: 25%;
+}
+.navbar-item-input {
+  margin-right: 20%;
+}
+.navbar-item-dropdown {
+  margin-right: 15%;
+}
+
+/* The alert message box */
+.alert-danger {
+  padding: 20px;
+  background-color: rgba(220, 20, 60, 0.733); /* Red */
+  color: white;
+  margin-bottom: 15px;
+}
+
+/* The close button */
+.alert-closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.alert-closebtn:hover {
+  color: black;
+}
+
+.field-error {
+  color: crimson;
+  margin-bottom: 10px !important;
+}
